@@ -10,6 +10,8 @@ public class TestProjectApplication {
 		SpringApplication.run(TestProjectApplication.class, args);
 		System.out.println("Application started");
 		System.out.println("changes by ticket-1");
+		System.out.println("Changes by ticket-2");
+
 	}
 
 }
