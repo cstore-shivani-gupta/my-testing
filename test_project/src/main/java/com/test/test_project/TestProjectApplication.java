@@ -12,6 +12,7 @@ public class TestProjectApplication {
 		System.out.println("changes by ticket-1");
 		System.out.println("Changes in child");
 		System.out.println("Changes in parent-111");
+		System.out.println("Changes in parent-222");
 
 	}
 
